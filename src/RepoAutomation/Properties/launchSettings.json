@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RepoAutomation": {
+      "commandName": "Project",
+      "commandLineArgs": "-o samsmithnz -r MiniRPG -p mstest,classlib -d C:\\Users\\samsm\\source\\repos -v public"
+    }
+  }
+}
